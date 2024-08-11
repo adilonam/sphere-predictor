@@ -8,7 +8,7 @@ import pandas as pd
 from models.tensorflow_model import TensorFlowModel
 
 # Streamlit app code
-st.title('Predict Sphere')
+st.title('Predict Sphere GJ')
 
 
 
